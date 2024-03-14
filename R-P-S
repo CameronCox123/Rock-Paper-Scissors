@@ -1,10 +1,9 @@
-# File: HW3
+# File: R-P-S
 # Author: Cameron Cox
 # UT EID: cpc2526
 # Course: cs303E
-#
-# Date: 9/18/2023
-# Description of program: Plays Rock, Paper, Sccisors
+
+# Description of program: Plays Rock, Paper, Sccisors with the user
 
 import random
 
